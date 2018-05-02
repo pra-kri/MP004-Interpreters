@@ -1,4 +1,6 @@
-# Will attempt to run through Peter Norvig's guide to writing a LISP interpreter in Python. Hopefully I'll understand something about interpreters by the end of it... I'll also try to add some of my own modifications, or write the functions in a different way, to make sure I understand what is being done.
+# Will attempt to run through Peter Norvig's guide to writing a LISP interpreter in Python. 
+# Hopefully I'll understand something about interpreters by the end of it... I'll also try to add some of my own modifications, 
+# or write the functions in a different way, to make sure I understand what is being done.
 
 
 
